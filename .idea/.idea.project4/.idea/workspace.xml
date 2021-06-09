@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="982847a7-7192-4f9a-9369-66363524e34a" name="Default Changelist" comment="" />
+    <list default="true" id="982847a7-7192-4f9a-9369-66363524e34a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.project4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.project4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.project4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.project4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Infantry.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Infantry.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayControl.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayControl.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animator.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animator.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/infantry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/infantry.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefab/Infantry.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/prefab/Infantry.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/29/2932103a6e6dbb5f56717394512eea48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6d4bfeaa064b904daca7281082a51508" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d9/d9059a90b5d582788f835a58f58676df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/a40b0b-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/a40b0b-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -69,6 +94,8 @@
       <workItem from="1622881735291" duration="1948000" />
       <workItem from="1622883873835" duration="264000" />
       <workItem from="1622884249300" duration="2269000" />
+      <workItem from="1623125247417" duration="2091000" />
+      <workItem from="1623127415758" duration="47000" />
     </task>
     <servers />
   </component>
