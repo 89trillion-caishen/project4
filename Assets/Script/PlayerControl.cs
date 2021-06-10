@@ -19,7 +19,11 @@ public class PlayerControl : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.R))
         {
-            animator.SetTrigger("isRun");;
+            animator.SetTrigger("isRun");
+        }
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            animator.SetTrigger("isIdle");
         }
     }
 }
